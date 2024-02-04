@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Freelance and parttime
 - 📫 How to reach me developeramrendra.backend25@gmail.com 
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: Fumy
+- ⚡ Fun fact: Funny
 
 <!---
 amrendra-backend25/amrendra-backend25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
